@@ -1,6 +1,15 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+TVBS新闻台 |新闻||
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+
+TVBS HD |新闻||
+https://www.youtube.com/watch?v=YvdcZ_jpLXE
+
+東森娛樂台 |新闻||
+https://www.youtube.com/watch?v=AH053CqyXWg
+
 中天新闻 |新闻||
 https://www.youtube.com/watch?v=_QbRXRnHMVY
 
@@ -15,6 +24,9 @@ https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
 凤凰卫视资讯台 |新闻||
 https://www.youtube.com/watch?v=dmDg7NfUoSw
+
+三立海外直播 |台湾||
+https://www.youtube.com/watch?v=FoBfXvlOR6I
 
 三立新闻 |新闻||
 https://www.youtube.com/watch?v=CKjSm5ZeehE
