@@ -16,10 +16,10 @@ https://www.youtube.com/watch?v=_QbRXRnHMVY
 台視新聞台 | 直播 | |
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
-中視新聞 | 直播 | |
+中視新聞 | 直播 | http://epg.51zmt.top:8000/tb1/gt/中视新闻.png | 7176
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 
-寰宇新聞台 | 直播 | |
+寰宇新聞台 | 直播 | http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png | 6171
 https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
 凤凰卫视资讯台 | 直播 | http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png | 142 
@@ -28,13 +28,13 @@ https://www.youtube.com/watch?v=dmDg7NfUoSw
 三立海外直播 | 直播 | |
 https://www.youtube.com/watch?v=FoBfXvlOR6I
 
-三立新闻 | 直播 | |
+三立新闻 | 直播 | http://epg.51zmt.top:8000/tb1/gt/SETNews.png | 6072
 https://www.youtube.com/watch?v=CKjSm5ZeehE
 
-東森新聞 | 直播 | |
+東森新聞 | 直播 | http://epg.51zmt.top:8000/tb1/gt/EBCNews.png | 6069
 https://www.youtube.com/watch?v=R2iMq5LKXco
 
-東森財經新聞 | 直播 | |
+東森財經新聞 | 直播 | http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png | 6075
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 
 镜新闻 | 直播 | |
