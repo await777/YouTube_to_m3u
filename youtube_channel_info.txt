@@ -8,7 +8,7 @@ TVBS HD | 直播 | http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png | 6074
 https://www.youtube.com/watch?v=YvdcZ_jpLXE
 
 東森娱乐台 | 直播 | http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png |
-https://www.youtube.com/watch?v=MLD6hLXDJ4c
+https://www.youtube.com/watch?v=hlt15LHKZ2M
 
 中天新闻 | 直播 | http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png |
 https://www.youtube.com/watch?v=oIgbl7t0S_w
@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
 凤凰卫视资讯台 | 直播 | http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png | 142 
-https://www.youtube.com/watch?v=dmDg7NfUoSw
+https://www.youtube.com/watch?v=if6yQq_JJyY
 
 三立海外直播 | 直播 | http://epg.51zmt.top:8000/tb1/gt/SETInews.png |
 https://www.youtube.com/watch?v=FoBfXvlOR6I
@@ -45,3 +45,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 
 台湾PLUS+ | 直播 | |
 https://www.youtube.com/watch?v=dZp87qnWelE
+
+TVBS NEWS | 直播 | |
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+
+中視經典綜藝 | 直播 | |
+https://www.youtube.com/watch?v=ADDSmXoPDY8
